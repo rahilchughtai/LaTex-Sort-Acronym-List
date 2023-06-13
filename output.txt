@@ -1,1 +1,12 @@
-This is where the output will be generated!
+\acro{api}[API]{Application Programming Interface}
+\acro{http}[HTTP]{Hypertext Transfer Protocol}
+\acro{http2}[HTTP/2]{Hypertext Transfer Protocol Version 2}
+\acro{idl}[IDL]{Interface Definition Language}
+\acro{iot}[IoT]{Internet of Things}
+\acro{ipc}[IPC]{Interprocess Communication}
+\acro{json}[JSON]{JavaScript Object Notation}
+\acro{lan}[LAN]{Local Area Network}
+\acro{protobuf}[Protobuf]{Protocol Buffers}
+\acro{rpc}[RPC]{Remote Procedure Call}
+\acro{rest}[REST]{Representational State Transfer}
+\acro{grpc}[gRPC]{gRPC Remote Procedure Call}

@@ -1,142 +1,15 @@
 
-Please Paste your Abbreviation chapter here!
+    \acro{grpc}[gRPC]{gRPC Remote Procedure Call}
+    \acro{rpc}[RPC]{Remote Procedure Call}
+    \acro{http}[HTTP]{Hypertext Transfer Protocol}
+    \acro{http2}[HTTP/2]{Hypertext Transfer Protocol Version 2}
+    \acro{protobuf}[Protobuf]{Protocol Buffers}
+    \acro{ipc}[IPC]{Interprocess Communication}
+    \acro{json}[JSON]{JavaScript Object Notation}
+    \acro{iot}[IoT]{Internet of Things}
 
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{PO}[\textup{PO}]{Product Owner}
-\end{acronym}
+    \acro{rest}[REST]{Representational State Transfer}
+     \acro{api}[API]{Application Programming Interface}
 
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{API}[\textup{API}]{Application Programming Interface}
-	\acroplural{API}[APIs]{Application Programming Interfaces}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{DT}[\textup{DT}]{Digital Twin}
-\end{acronym}
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{JSON}[\textup{JSON}]{JavaScript Object Notation}
-\end{acronym}
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{DS}[\textup{DS}]{Digital Shadow}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{DM}[\textup{DM}]{Digital Model}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{NLP}[\textup{NLP}]{Natural Language Processing}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{UE}[\textup{UE}]{Unreal Engine}
-\end{acronym}
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{IOT}[\textup{IoT}]{Internet of Things}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{HTTP}[\textup{HTTP}]{Hypertext Transfer Protocol}
-\end{acronym}
-
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{VM}[\textup{VM}]{Virtual Machine}
-	\acroplural{VM}[VMs]{Virtual Machines}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{OS}[\textup{OS}]{Operating System}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{VR}[\textup{VR}]{Virtual Reality}
-\end{acronym}
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{OO}[\textup{OO}]{Object-Oriented}
-\end{acronym}
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{AI}[\textup{AI}]{Artificial Intelligence}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{OOP}[\textup{OOP}]{Object-Oriented Programming}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{IDE}[\textup{IDE}]{Integrated Development Environment}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{REST}[\textup{REST}]{Representational State Transfer}
-\end{acronym}
-
-
-
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{GUI}[\textup{GUI}]{Graphical User Interface}
-\end{acronym}
-
-\begin{acronym}[XXXXXXX]
-	\setlength{\itemsep}{-\parsep}
-	\acro{UI}[\textup{UI}]{User Interface}
-\end{acronym}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     \acro{lan}[LAN]{Local Area Network}
+     \acro{idl}[IDL]{Interface Definition Language}
